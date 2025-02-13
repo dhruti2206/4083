@@ -2,5 +2,9 @@ AMITY UNIVERSITY
 AUB
 B.TECH CSE
 MEENAAMRUTHA
+sorce code 
 this is a test file
 hello
+int a 
+int b
+int c
